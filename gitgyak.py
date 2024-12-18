@@ -1,0 +1,1 @@
+# Ezzel gyakoroljuk a gitet
